@@ -1,0 +1,4 @@
+C:\Users\jephteesteril_snhu\source\repos\Project1\Debug\Project1.exe
+C:\Users\jephteesteril_snhu\source\repos\Project1\Debug\Project1.pdb
+\\apporto.com\dfs\SNHU\USERS\jephteesteril_snhu\Desktop\Project1\Debug\Project1.exe
+\\apporto.com\dfs\SNHU\USERS\jephteesteril_snhu\Desktop\Project1\Debug\Project1.pdb
