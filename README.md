@@ -1,4 +1,4 @@
-**# jeph-code** The Corner Grocer's item-tracking program is made to give item frequency data and evaluate daily purchase records. After reading an input file and processing the data, the application provides the following features:
+**# Project 3** The Corner Grocer's item-tracking program is made to give item frequency data and evaluate daily purchase records. After reading an input file and processing the data, the application provides the following features:
 
 1. Find out how often a particular item occurs.
 2. Print each item's frequency. 
